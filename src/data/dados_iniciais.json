@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "titulo": "Curiosidades",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#333",
+      "link_extra": {
+        "text": "Você sabe tudo sobre gatos?",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Afinal, por que os gatos amassam pãozinho?",
+          "url": "https://www.youtube.com/watch?v=VprWXogdyTA"
+        },
+        {
+          "titulo": "29 fatos incríveis sobre gatos",
+          "url": "https://www.youtube.com/watch?v=pnrdOuHp3M0"
+        },
+        {
+          "titulo": "Como entender melhor o seu gato",
+          "url": "https://www.youtube.com/watch?v=O5zlRruXH4I"
+        },
+        {
+          "titulo": "7 sons que os gatos fazem e o que significam",
+          "url": "https://www.youtube.com/watch?v=rO1ZXtgfsWg"
+        },
+        {
+          "titulo": "6 mistérios felinos desvendados",
+          "url": "https://www.youtube.com/watch?v=u_25YvQsgzU"
+        },
+        {
+          "titulo": "Por que seu gato te segue até o banheiro?",
+          "url": "https://www.youtube.com/watch?v=SYdC5Em_SRs"
+        },
+        {
+          "titulo": "Por que os gatos ronronam?",
+          "url": "https://www.youtube.com/watch?v=k1KzljDMsvo"
+        },
+        {
+          "titulo": "Por que o gato lambe e depois morde?",
+          "url": "https://www.youtube.com/watch?v=t2nmJF162pw"
+        }        
+      ]
+    },
+    {
+      "titulo": "Memes",
+      "cor": "#333",
+      "link_extra": {
+        "text": "Para rir com seu gatinho",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Como fazer um pãozinho de gato",
+          "url": "https://www.youtube.com/watch?v=YnQXuFepyPI"
+        },
+        {
+          "titulo": "Gatos engraçados #13",
+          "url": "https://www.youtube.com/watch?v=Ud0bP7EYfoQ"
+        },
+        {
+          "titulo": "Tente não rir: versão gatos",
+          "url": "https://www.youtube.com/watch?v=zbDQgFtce5M"
+        },
+        {
+          "titulo": "Despacito: cat version",
+          "url": "https://www.youtube.com/watch?v=un8a4lSCdmM"
+        }, 
+        {
+          "titulo": "Melhores gatos dançantes",
+          "url": "https://www.youtube.com/watch?v=TpURYdSaBS8"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas",
+      "cor": "#333",
+      "link_extra": {
+        "text": "Aprenda a cuidar melhor do seu gatinho",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "4 coisas que você não deve fazer com seu gato",
+          "url": "https://www.youtube.com/watch?v=CVTG7bSzoh0"
+        },
+        {
+          "titulo": "Como cuidar de um gato filhote?",
+          "url": "https://www.youtube.com/watch?v=oTNna4f3w9U&list=PLmvImnAA1p_wFyR5pn-Y4ehCSiR2vDiOi&index=3"
+        },
+        {
+          "titulo": "Como educar gatos",
+          "url": "https://www.youtube.com/watch?v=OC3PvXYscNI"
+        },
+        {
+          "titulo": "12 truques para os nossos amiguinhos peludos",
+          "url": "https://www.youtube.com/watch?v=cfX_fZWAq1A"
+        },
+        {
+          "titulo": "Como fazer um gato feliz em 10 atitudes",
+          "url": "https://www.youtube.com/watch?v=0cwmQzt2nkE&list=PLmvImnAA1p_wFyR5pn-Y4ehCSiR2vDiOi&index=8"
+        }
+      ]
+    },
+    {
+      "titulo": "Gatos cantores",
+      "cor": "#333",
+      "videos": [
+        {
+          "titulo": "Despacito: cat version",
+          "url": "https://www.youtube.com/watch?v=un8a4lSCdmM"
+        }, 
+        {
+          "titulo": "Havana: cat version",
+          "url": "https://www.youtube.com/watch?v=j-Ld0hDSilQ"
+        },
+        {
+          "titulo": "Shape of you: cat version",
+          "url": "https://www.youtube.com/watch?v=jBlL77UYpHA"
+        },
+        {
+          "titulo": "Taylor Swift cantando Macavity",
+          "url": "https://www.youtube.com/watch?v=rQ-uzCC3hjQ"
+        },
+        {
+          "titulo": "Happy birthday: cat version",
+          "url": "https://www.youtube.com/watch?v=2IWrVCxrna4"
+        }
+      ]
+    },
+    {
+      "titulo": "DIY",
+      "cor": "#333",
+      "link_extra": {
+        "text": "Ideias incríveis de mimos para gatos",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "DIY Pet: casinha para gatos + arranhador",
+          "url": "https://www.youtube.com/watch?v=Jd2vzKm8lj0"
+        },
+        {
+          "titulo": "Como fazer fonte para gatos",
+          "url": "https://www.youtube.com/watch?v=36lEFT_F7sU"
+        },
+        {
+          "titulo": "DIY: dispensador de alimentos de gato de papelão",
+          "url": "https://www.youtube.com/watch?v=b9i_fVI-jTI"
+        },
+        {
+          "titulo": "Como fazer brinquedos caseiros para gatos",
+          "url": "https://www.youtube.com/watch?v=J27hZCJkbi4"
+        },
+        {
+          "titulo": "Gatorial: 3 brinquedos improvisados para o seu gato",
+          "url": "https://www.youtube.com/watch?v=iGWLuUm4Ouw"
+        }
+      ]
+    },
+    {
+      "titulo": "Simplesmente miado",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Miau, mion, meow",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Gatos miando por 6h seguidas",
+          "url": "https://www.youtube.com/watch?v=fxjy-2fu6Ew"
+        },
+        {
+          "titulo": "Gatinhos miando e falando bonito",
+          "url": "https://www.youtube.com/watch?v=bcf5wit121k"
+        },
+        {
+          "titulo": "Gato bravo falando e miando",
+          "url": "https://www.youtube.com/watch?v=36FxPYlQJs4"
+        },
+        {
+          "titulo": "Gatos miando",
+          "url": "https://www.youtube.com/watch?v=TTYVVMpo0n0"
+        },
+        {
+          "titulo": "Homem miando para um ovo durante 1h",
+          "url": "https://www.youtube.com/watch?v=kvvp0AnPah8"
+        }
+      ]
+    }
+  ]
+}
